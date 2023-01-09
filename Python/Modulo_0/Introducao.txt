@@ -1,0 +1,43 @@
+PYTHON
+
+* Simples por design, parte da filosofia da linguagem;
+
+* Altissimo nivel, muito proxima da liguagem real;
+
+* Uma das linguagens mais utilizadas no mundo;
+
+* Presente em diversos mercados, como web e educaocao;
+
+* Forte presenca no mercado de dados, em todas as sua areas:analise,
+  ciencia, engenharia.
+
+
+CONTEUDO
+
+01. Variaveis e Tipos de dados
+02. Estrutura de dados
+03. Fluxo Condicional e repeticao
+04. Arquivos e Funcoes
+05. Programacao funcional
+06. Programacao Orientada a Objetos
+07. Modulos e pacotes
+08. Tratamento de Erros
+09. Scripting
+10. Projeto Final
+
+
+ANALISTA DE DADOS
+
+* Combina tecnicas de analize de dados com conheciomento de negocios para gerar
+  insights;
+
+* Atua em qualquer mercado, sozinho ou em uma equipe de dados com analistas, ci-
+  entistas e engenheiros.
+
+* Proeficiente no suo das linguagens Python e SQL para exploracao e visualizacao
+  de dados.
+
+* Sabe aplicar tecnicas para predizer tendencias futuras;
+
+* Utiliza servicos de computacao em nuvem para automatizar analises e processar
+  grandes volumes de dados.
