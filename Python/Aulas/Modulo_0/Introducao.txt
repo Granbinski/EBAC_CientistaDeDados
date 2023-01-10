@@ -41,3 +41,23 @@ ANALISTA DE DADOS
 
 * Utiliza servicos de computacao em nuvem para automatizar analises e processar
   grandes volumes de dados.
+  
+CURSO COMPLETO
+
+  01. Python
+  02. Analise de dados
+  03. Controle de Versao
+  04. Analise de dados
+  05. SQL
+  06. Inteligencia de negocios
+  07. Computacao em Nuvem e Big Data
+
+PROJETOS
+
+01. Analise exploratoria de dados de logistica em Python
+  
+02. Analise exploratoria de dados de credito em SQL
+
+03. Painel de dados da Covid-19
+
+04. Pipeline de dados do Telegram
