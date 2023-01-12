@@ -21,3 +21,34 @@ nome = 'Inacio'
 sobrenome = "Granbinski"
 apresentacao = 'Ola, meu nome e ' + nome + " " + sobrenome + "."
 print(apresentacao)
+apresentacao = f'Ola, meu nome e {nome} {sobrenome}.'
+print(apresentacao)
+
+
+# Fatiamento
+
+email = 'inacioteste@gmail.com'
+
+print('0: ' + email[0])
+print('11: ' + email[11])
+print('-1: ' + email[-1])
+print('-2: ' + email[-2])
+
+
+# Fatiamento por intervalo
+
+email_usuario = email[0:11]
+print(email_usuario)
+
+email_provedor = email[12:-1]
+print(email_provedor)
+
+# Metodos
+
+endereco = "Avenida Paulista, 1811, São Paulo, São Paulo, Brasil."
+
+print(endereco.upper())
+posicao = endereco.find('Brasil')
+print(posicao)
+
+print(endereco.replace('Avenida', 'Av'))
