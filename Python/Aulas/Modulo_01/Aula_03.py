@@ -58,20 +58,19 @@ print(endereco.replace('Avenida', 'Av'))
 idade = 19
 print(type(idade))
 
-idade = str(idade)
-print(type(idade))
+idade_2 = str(idade)
+print(type(idade_2))
 
 faturamento = 'R$ 35 mi'
 print(faturamento)
 print(type(faturamento))
 
-faturamento = int(faturamento[3:5])
-print(faturamento)
-print(type(faturamento))
+faturamento_2 = int(faturamento[3:5])
+print(faturamento_2)
+print(type(faturamento_2))
 
 
 # Resolucao
-+
 posicao_char_divisao = latlon.find(';')
 print(posicao_char_divisao)
 
