@@ -52,3 +52,31 @@ posicao = endereco.find('Brasil')
 print(posicao)
 
 print(endereco.replace('Avenida', 'Av'))
+
+# Conversao
+
+idade = 19
+print(type(idade))
+
+idade = str(idade)
+print(type(idade))
+
+faturamento = 'R$ 35 mi'
+print(faturamento)
+print(type(faturamento))
+
+faturamento = int(faturamento[3:5])
+print(faturamento)
+print(type(faturamento))
+
+
+# Resolucao
++
+posicao_char_divisao = latlon.find(';')
+print(posicao_char_divisao)
+
+lat_startup = latlon[0:posicao_char_divisao]
+print(lat_startup)
+
+lon_startup = latlon[posicao_char_divisao + 1:len(latlon)]
+print(lon_startup)
