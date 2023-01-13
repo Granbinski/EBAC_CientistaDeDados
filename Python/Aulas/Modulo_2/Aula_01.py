@@ -61,3 +61,63 @@ print(fabricantes_mobile)
 
 fabricantes_mobile[2] = 'nokia'
 print(fabricantes_mobile)
+
+print('\n')
+print('=' * 100)
+print('\n')
+
+
+juros = [0.05, 0.07, 0.02, 0.04, 0.08]
+print(juros)
+
+# inserir um elemento sem substituir: list.insert(index, val)
+juros.insert(0, 0.10)
+print(juros)
+
+# inserir um elemento no fim da lista: list.append(val)
+juros.append(0.09)
+print(juros)
+
+# remover um elemento pelo valor: list.remove(val)
+juros.remove(0.1)
+print(juros)
+
+# remover um elemento pelo índice: list.pop(val)
+terceiro_juros = juros.pop(2)
+print(terceiro_juros)
+
+print(juros)
+
+print('\n')
+print('=' * 100)
+print('\n')
+
+email = 'andre.perez@gmail.com'
+caracteres_email = list(email)
+print(email)
+print(caracteres_email)
+
+print('\n')
+print('=' * 100)
+print('\n')
+
+dia_11_saldo_inicial = 1000
+
+
+dia_11_transacoes = []
+dia_11_transacoes.append(243)
+dia_11_transacoes.append(-798.58)
+dia_11_transacoes.append(427.12)
+dia_11_transacoes.append(-10.91)
+print(dia_11_transacoes)
+
+dia_11_saldo_final = dia_11_saldo_inicial + \
+    dia_11_transacoes[0] + \
+    dia_11_transacoes[1] + \
+    dia_11_transacoes[2] + \
+    dia_11_transacoes[3]
+print(dia_11_saldo_final)
+
+print('\n')
+print('=' * 100)
+print('\n')
