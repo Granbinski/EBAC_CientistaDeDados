@@ -1,4 +1,4 @@
-from arquivo_csv import ArquivoCSV
+from arquivo.arquivo_csv import ArquivoCSV
 arquivo_banco = ArquivoCSV(arquivo='Python/Aulas/Modulo_07/banco.csv')
 
 education = arquivo_banco.extrair_coluna(indice_coluna=3)
